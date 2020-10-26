@@ -1,7 +1,7 @@
 # YouTube block ads
 # Premium 勿用且版本需 ＞ 15.26.4
 
-[Rule]
+#[Rule]
 #URL-REGEX,https:\/\/[\s\S]*\.googlevideo\.com/.*&(oad|ctier),REJECT
 
 [URL Rewrite]
