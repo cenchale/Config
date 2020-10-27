@@ -1,0 +1,10 @@
+# YouTube block ads
+# Premium 勿用且版本需 ＞ 15.26.4
+
+
+[URL Rewrite]
+ctier=[A-Z] citer=A 302
+^https:\/\/[\s\S]*\.googlevideo\.com/.*&(oad|ctier),REJECT
+
+[MITM]
+hostname = *.googlevideo.com
