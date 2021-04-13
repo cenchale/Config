@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,cdn.branch.io,no-resolve
+DOMAIN-SUFFIX,api2.branch.io,no-resolve
+DOMAIN-SUFFIX,app-measurement.com,no-resolve
+DOMAIN-SUFFIX,api.leanplum.com,no-resolve
+DOMAIN-SUFFIX,volvocars.com,no-resolve
+DOMAIN-SUFFIX,vocapi-cn.wirelesscar.net,no-resolve
+DOMAIN-SUFFIX,cepmob.cn.ericssoncvc.cn,no-resolve
+DOMAIN-SUFFIX,restapi.amap.com,no-resolve
+DOMAIN-SUFFIX,telematics.autonavi.com,no-resolve
+DOMAIN-SUFFIX,dispatcher.is.autonavi.com,no-resolve
+DOMAIN-SUFFIX,cnepmob.qa.volvocars.com,no-resolve
+DOMAIN-SUFFIX,volvoid.cn.volvocars.com,no-resolve
