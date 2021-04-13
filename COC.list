@@ -1,5 +1,6 @@
 IP-CIDR,182.254.116.120/32,no-resolve
 IP-CIDR,59.36.89.185/32,no-resolve
+IP-CIDR,101.89.15.229/32,no-resolve
 DOMAIN-SUFFIX,o315582.ingest.sentry.io,no-resolve
 DOMAIN-SUFFIX,iplay.163.com,no-resolve
 DOMAIN-SUFFIX,supercell.helpshift.com,no-resolve
@@ -8,8 +9,8 @@ DOMAIN-SUFFIX,clash-of-clans.videouploads.supercellcommunity.cn,no-resolve
 DOMAIN-SUFFIX,thirdwx.qlogo.cn,no-resolve
 DOMAIN-SUFFIX,mmocgame.qpic.cn,no-resolve
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com,no-resolve
-
-
-
+DOMAIN-SUFFIX,ios.game.coc.qq.com,no-resolve
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com,no-resolve
+DOMAIN-SUFFIX,clashofclanscdn.kunlun-cdn.com,no-resolve
 
 
