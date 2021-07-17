@@ -9,7 +9,9 @@ IP-CIDR,113.69.209.105,no-resolve
 IP-CIDR,113.59.42.253,no-resolve
 IP-CIDR,116.169.48.252,no-resolve
 IP-CIDR,121.31.31.234,no-resolve
+IP-CIDR,140.205.164.1,no-resolve
 IP-CIDR,183.3.234.100,no-resolve
 IP-CIDR,203.119.206.0,no-resolve
 IP-CIDR,203.119.169.58,no-resolve
 DOMAIN-SUFFIX,amap.com,no-resolve
+DOMAIN-SUFFIX,wostore.cn,no-resolve
