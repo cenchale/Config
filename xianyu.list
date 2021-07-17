@@ -11,4 +11,4 @@ IP-CIDR,121.31.31.234,no-resolve
 IP-CIDR,183.3.234.100,no-resolve
 IP-CIDR,203.119.206.0,no-resolve
 IP-CIDR,203.119.169.58,no-resolve
-DOMAIN-SUFFIX,amap,no-resolve
+DOMAIN-SUFFIX,amap.com,no-resolve
