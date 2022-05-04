@@ -15,3 +15,4 @@ IP-CIDR,203.119.206.0,no-resolve
 IP-CIDR,203.119.169.58,no-resolve
 DOMAIN-SUFFIX,amap.com,no-resolve
 DOMAIN-SUFFIX,wostore.cn,no-resolve
+DOMAIN-SUFFIX,tanx.com,no-resolve
